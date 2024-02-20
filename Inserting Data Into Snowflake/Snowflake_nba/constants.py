@@ -1,0 +1,1 @@
+path = 'C:/Users/ananya.ramesh/OneDrive - Happiest Minds Technologies Limited/Desktop/New folder/Snowflake_nba/nba-2.csv'
